@@ -15,7 +15,7 @@ model_2 = genai.GenerativeModel("gemini-pro")
 
 def analyse_file(text_in_file):
     
-    response_2 = model_2.generate_content("The text following is from the analysis of an architectural drawing. Given its contents, what could the file be? What would a brief summary of the file be? Answer in json format, with the json object containing the fields filetype and summary. Text: {}".format(text_in_file))
+    response_2 = model_2.generate_content("The text following is from OCR of an architectural drawing. Given its contents, what can the file be? What would a brief summary of the file be? Answer in json format, with the json object containing the fields filetype and summary. Text: {}".format(text_in_file))
 
     return str(response_2.text).replace(r"```", "").replace("json", "").replace("JSON", "")
     
@@ -59,6 +59,12 @@ def display_structure(path):
 def save_files(uploaded_files, save_directory):
     """Saves uploaded files to the specified directory."""
     for file in uploaded_files:
+        if save_directory:
+            try:
+                os.makedirs(save_directory)
+                st.success(f"Directory '{save_directory}' created successfully.")
+            except FileExistsError:
+                st.error(f"Directory '{save_directory}' already exists.")
         save_path = os.path.join(save_directory, file.name)
         with open(save_path, "wb") as out_file:
             out_file.write(file.getbuffer())
