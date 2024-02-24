@@ -8,7 +8,7 @@ dir_path = r"E:\Work\workbackups\localdata\PDFs"
 # Get list of files
 files = os.listdir(dir_path)
 # Open the pdf file
-for filepath in files:
+for filepath in files[0:20]:
   pdf_file = open(r"{}\\".format(dir_path) + r"{}".format(filepath), "rb")
 
   # Create a pdf reader object

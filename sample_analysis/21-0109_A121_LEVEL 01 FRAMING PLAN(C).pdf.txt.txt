@@ -1,0 +1,12 @@
+
+{
+  "filetype": "architectural drawing",
+  "heirachy": {
+    "project": null,
+    "subproject": null,
+    "building": null,
+    "floor": "LEVEL 01",
+    "discipline": "FRAMING PLAN",
+    "drawing": "121"
+  }
+}

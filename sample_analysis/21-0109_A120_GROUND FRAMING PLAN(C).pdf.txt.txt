@@ -1,0 +1,9 @@
+
+{
+  "filetype": "Architectural Drawing",
+  "heirarchy": {
+    "Root": "21-0109 12 Aerodrome R oad Maroochydore",
+    "Ground Framing Plan": "Ground Framing Plan",
+    "1:100": "FRAMING PLAN GROUND 01"
+  }
+}

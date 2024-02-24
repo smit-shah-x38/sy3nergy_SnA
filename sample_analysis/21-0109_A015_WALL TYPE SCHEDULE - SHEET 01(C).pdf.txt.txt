@@ -1,0 +1,8 @@
+
+{
+  "filetype": "wall type schedule",
+  "hierarchy": {
+    "parent": null,
+    "children": []
+  }
+}

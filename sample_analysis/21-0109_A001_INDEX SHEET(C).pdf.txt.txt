@@ -1,0 +1,19 @@
+{
+ "filetype": "Architectural drawing",
+ "heirarchy": {
+  "floor_plans": [
+   "LEVEL 1",
+   "LEVEL 2",
+   "SECTION",
+   "REFLECTED CEILING PLAN",
+   "ROOF PLAN"
+  ],
+  "interior_elevations": [],
+  "reflected_ceiling_plans": [],
+  "sections": [],
+  "elevations": [],
+  "site_plan": [],
+  "schedules": [],
+  "general_notes": []
+ }
+}

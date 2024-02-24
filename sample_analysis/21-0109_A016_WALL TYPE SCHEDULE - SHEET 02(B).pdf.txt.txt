@@ -1,0 +1,5 @@
+
+{
+ "filetype": "WALL TYPE SCHEDULE",
+ "heirarchy": "Architectural drawings > Tender Issue > Sheet 02"
+}

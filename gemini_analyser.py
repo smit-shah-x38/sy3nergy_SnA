@@ -21,5 +21,7 @@ for file in files:
     
     response_2 = model_2.generate_content("The text following is from OCR of an architectural drawing. Given its contents, what can the file be? What is the likely place of the file in the heirarchical structure of a normal project? Answer in json format, with the json object containing the fields filetype and heirarchy. Text: {}".format(text_in_file))
 
-    print(str(response_2.text).replace(r"```", "").replace("json", ""))
-    print("---------------")
+    with open(r"sample_analysis\{}.txt".format(file), "w") as file_txt:
+      file_txt.write(str(response_2.text).replace(r"```", "").replace("json", ""))
+    # print(str(response_2.text).replace(r"```", "").replace("json", ""))
+    # print("---------------")
