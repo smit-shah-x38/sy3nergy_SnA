@@ -1,0 +1,18 @@
+
+{
+    "filetype": "Architectural Drawing",
+    "heirarchy": [
+        {
+            "level": "higher",
+            "name": "Project Files (12 Aerodrome Road Maroochydore)"
+        },
+        {
+            "level": "mid",
+            "name": "21-0109 Architectural Plans"
+        },
+        {
+            "level": "lower",
+            "name": "A170 Ground Fire Compartment Plan"
+        }
+    ]
+}

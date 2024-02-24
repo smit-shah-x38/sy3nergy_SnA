@@ -1,0 +1,19 @@
+
+{
+ "filetype": "fire compartment plan",
+ "hierarchy": {
+  "client": null,
+  "project": "21-0109 12 Aerodrome R oad Maroochydore",
+  "project_number": null,
+  "issue_date": null,
+  "drawn_by": "HC",
+  "verified_by": "JC",
+  "approved_by": null,
+  "revisions": [
+   "01",
+   "A PRE 70% ECI TENDER COORDINATION",
+   "B 70% ECI TENDER ISSUE"
+  ],
+  "north": "NOT FOR CONSTRUCTION"
+ }
+}

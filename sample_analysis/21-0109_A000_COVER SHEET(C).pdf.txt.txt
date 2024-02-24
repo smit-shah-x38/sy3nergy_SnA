@@ -1,0 +1,5 @@
+
+{
+  "filetype": "Architectural drawing",
+  "hierarchy": "Tender Documents > ECI Tender"
+}

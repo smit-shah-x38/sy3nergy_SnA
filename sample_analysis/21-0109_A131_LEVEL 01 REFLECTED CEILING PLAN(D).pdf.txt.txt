@@ -1,0 +1,5 @@
+
+{
+  "filetype": "Reflected Ceiling Plan",
+  "hierarchy": "Architectural Drawings > Ceiling Plans"
+}
