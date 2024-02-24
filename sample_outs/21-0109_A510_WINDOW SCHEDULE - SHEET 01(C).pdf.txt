@@ -1,0 +1,173 @@
+Plot date: Original sheet size A1 (841x594) SHEET NO. REVISION SHEET NAME 
+SCALE @ A1= CLIENT PROJECT 
+PROJECT NO. ISSUE DATE DRAWN 
+VERIFIED DESIGN 
+APPROVED NORTH 
+TENDER ISSUE 
+NOT FOR CONSTRUCTION REVISIONS 
+DO NOT SCALE; CONTRACTOR TO VERIFY ALL DIMENSIONS O N SITE PRIOR TO STARTING WORK 
+© COPYRIGHT ARCHITECTURAL COLLABORATIVE PTY LTD LEGEND NOTES 
+ARCHITECTURAL COLLABORATIVE PTY LTD 
+6 PROSPECT ST, FORTITUDE VALLEY QLD 4006 
+07 3539 8880  www.archcollab.com.au 
+C:\Users\HenriChau\Documents\21-0109 12 Aerodrome R oad Maroochydore (2022)_henri.chau.rvt 9/03/2023 1:21:25 PM C
+09.03.23 A510 WINDOW SCHEDULE -SHEET 01 SAINTSUN 
+12 AERODROME RD, MAROOCHYDORE, QLD 4558 
+21-0109 HC 
+JC -
+HC WINDOW SCHEDULE 
+WINDOW NUMBER LOCATION 
+GLASS CONFIGURATION ACOUSTIC 
+RATING 
+REQUIRED DIMENSIONS 
+SILL HEIGHT DESCRIPTION Notes LEVEL FUNCTION HEIGHT WIDTH 
+GROUND WG 01 GROUND Exterior Standard OX - 2410 3225 190 Powdercoat ed Aluminium Glazing Sliding Door 
+WG 02 GROUND Exterior Standard OXO - 3000 4980 1110 Powderco ated Aluminium Fixed Glazing with Swing Doors Self C losing Glazed Swing Doors and internal wall wetting  sprinklers. 
+Mullions to be external 
+LEVEL 01 W01 01 LEVEL 01 Exterior 2500 3295 0 Powdercoated Aluminium Glazing Sliding Doo r 
+LEVEL 03 W03 01 LEVEL 03 Exterior Standard OX - 600 2250 1800 Powderc oated Aluminium Glazing Sliding Window 
+W03 02 LEVEL 03 Exterior Standard XO - 600 2250 1800 Powderc oated Aluminium Glazing Sliding Window 
+W03 03 LEVEL 03 Exterior Standard XO - 600 2500 1800 Powderc oated Aluminium Glazing Sliding Window 
+W03 04 LEVEL 03 Exterior Standard XX - 600 1150 1800 Powderc oated Aluminium Glazing Awning Windows 
+W03 05 LEVEL 03 Exterior Standard X - 600 900 1800 Powdercoa ted Aluminium Glazing Awning Windows 
+W03 06 LEVEL 03 Exterior Standard XO - 710 2455 1800 Powderc oated Aluminium Glazing Awning Windows 
+W03 07 LEVEL 03 Exterior Standard OX - 2540 2000 -30 Powderc oated Aluminium Glazing Sliding Door 
+W03 08 LEVEL 03 Exterior Standard OX - 2540 2606 -30 Powderc oated Aluminium Glazing Sliding Door 
+W03 09 LEVEL 03 Exterior Standard XO - 2540 2081 -30 Powderc oated Aluminium Glazing Sliding Door 
+W03 10 LEVEL 03 Exterior Standard OOOX - 2540 3940 -30 Powde rcoated Aluminium Glazing Awning Windows 
+W03 11 LEVEL 03 Exterior Standard XOO - 1400 2650 1000 Powde rcoated Aluminium Glazing Awning Windows 
+W03 12 LEVEL 03 Exterior Standard XOOO - 1410 5090 1100 Powd ercoated Aluminium Glazing Awning Windows 
+W03 13 LEVEL 03 Exterior Standard XOO - 2540 3650 -30 Powder coated Aluminium Glazing Sliding Door and Fixed Gla zing 
+W03 14 LEVEL 03 Exterior Standard OX - 2540 3150 -30 Powderc oated Aluminium Glazing Sliding Door 
+W03 16 LEVEL 03 Exterior Standard XXOO - 2540 5100 -30 Powde rcoated Aluminium Glazing Sliding Door and Fixed Gl azing 
+W03 17 LEVEL 03 Exterior Standard OX - 2540 3150 -30 Powderc oated Aluminium Glazing Sliding Door 
+W03 18 LEVEL 03 Exterior Standard O - 2540 800 -30 Powdercoa ted Aluminium Fixed Glazing 
+W03 19 LEVEL 03 Exterior Standard XXOO - 2540 5065 -30 Powde rcoated Aluminium Glazing Sliding Door and Fixed Gl azing 
+W03 20 LEVEL 03 Exterior Standard OOOO - 1410 5000 1100 Powd ercoated Aluminium Fixed Glazing Tinted Glass 
+W03 21 LEVEL 03 Exterior Standard OO - 710 3298 1800 Powderc oated Aluminium Fixed Glazing Tinted Glass 
+W03 22 LEVEL 03 Exterior Standard OO - 710 620 1800 Powderco ated Aluminium Fixed Glazing Tinted Glass 
+LEVEL 04 W04 01 LEVEL 04 Exterior Standard OX - 600 2250 1800 Powderc oated Aluminium Glazing Sliding Window 
+W04 02 LEVEL 04 Exterior Standard XO - 600 2250 1800 Powderc oated Aluminium Glazing Sliding Window 
+W04 03 LEVEL 04 Exterior Standard XO - 600 2500 1800 Powderc oated Aluminium Glazing Sliding Window 
+W04 04 LEVEL 04 Exterior Standard X - 600 1525 1800 Powderco ated Aluminium Glazing Awning Windows 
+W04 05 LEVEL 04 Exterior Standard X - 600 900 1800 Powdercoa ted Aluminium Glazing Awning Windows 
+W04 06 LEVEL 04 Exterior Standard XO - 710 2455 1800 Powderc oated Aluminium Glazing Awning Windows 
+W04 07 LEVEL 04 Exterior Standard OX - 2540 2000 -30 Powderc oated Aluminium Glazing Sliding Door 
+W04 08 LEVEL 04 Exterior Standard OX - 2540 2606 -30 Powderc oated Aluminium Glazing Sliding Door 
+W04 09 LEVEL 04 Exterior Standard XO - 2540 2081 -30 Powderc oated Aluminium Glazing Sliding Door 
+W04 10 LEVEL 04 Exterior Standard OOOX - 2540 3940 -30 Powde rcoated Aluminium Glazing Awning Windows 
+W04 11 LEVEL 04 Exterior Standard XOO - 1400 2650 1000 Powde rcoated Aluminium Glazing Awning Windows 
+W04 12 LEVEL 04 Exterior Standard XOOO - 2540 5316 -30 Powde rcoated Aluminium Glazing Awning Windows 
+W04 13 LEVEL 04 Exterior Standard XOO - 2540 3650 -30 Powder coated Aluminium Glazing Sliding Door and Fixed Gla zing 
+W04 14 LEVEL 04 Exterior Standard OX - 2540 3150 -30 Powderc oated Aluminium Glazing Sliding Door 
+W04 16 LEVEL 04 Exterior Standard XXOO - 2540 5100 -30 Powde rcoated Aluminium Glazing Sliding Door and Fixed Gl azing 
+W04 17 LEVEL 04 Exterior Standard OX - 2540 3150 -30 Powderc oated Aluminium Glazing Sliding Door 
+W04 18 LEVEL 04 Exterior Standard O - 2540 800 -30 Powdercoa ted Aluminium Fixed Glazing 
+W04 19 LEVEL 04 Exterior Standard XXOO - 2540 5065 -30 Powde rcoated Aluminium Glazing Sliding Door and Fixed Gl azing 
+W04 20 LEVEL 04 Exterior 10.38 Lam XXX Rw 35 1510 2700 1000 Powdercoated Aluminium Fixed Glazing Acoustic Seals 
+W04 21 LEVEL 04 Exterior Standard X - 710 1100 1800 Powderco ated Aluminium Glazing Awning Windows 
+W04 22 LEVEL 04 Exterior Standard X - 710 600 1800 Powdercoa ted Aluminium Glazing Awning Windows 
+W04 23 LEVEL 04 Exterior 10.38 Lam OX Rw 35 2540 2428 -30 Po wdercoated Aluminium Glazing Sliding Door Acoustic S eals 
+W04 24 LEVEL 04 Exterior 12.4 Vlam or 13.52 Lam or 14. 38 Lam OXXO Rw 38 2540 4740 -30 Powdercoated Aluminium Gl azing Sliding Door and Fixed Glazing Acoustic Seals 
+W04 25 LEVEL 04 Exterior 12.4 Vlam or 13.52 Lam or 14. 38 Lam XO Rw 38 2540 2660 -30 Powdercoated Aluminium Glaz ing Sliding Door Acoustic Seals 
+LEVEL 05 W05 01 LEVEL 05 Exterior 4mm Float OX Rw 27 600 2250 1800 Po wdercoated Aluminium Glazing Sliding Window Acoustic  Seals 
+W05 02 LEVEL 05 Exterior Standard XO - 600 2250 1800 Powderc oated Aluminium Glazing Sliding Window 
+W05 03 LEVEL 05 Exterior Standard XO - 600 2500 1800 Powderc oated Aluminium Glazing Sliding Window 
+W05 04 LEVEL 05 Exterior Standard X - 600 1525 1800 Powderco ated Aluminium Glazing Awning Windows 
+W05 05 LEVEL 05 Exterior Standard X - 600 900 1800 Powdercoa ted Aluminium Glazing Awning Windows 
+W05 06 LEVEL 05 Exterior Standard XO - 710 2455 1800 Powderc oated Aluminium Glazing Awning Windows 
+W05 07 LEVEL 05 Exterior Standard OX - 2540 2000 -30 Powderc oated Aluminium Glazing Sliding Door 
+W05 08 LEVEL 05 Exterior Standard OX - 2540 2606 -30 Powderc oated Aluminium Glazing Sliding Door 
+W05 09 LEVEL 05 Exterior Standard XO - 2540 2081 -30 Powderc oated Aluminium Glazing Sliding Door 
+W05 10 LEVEL 05 Exterior Standard OOOX - 2540 3940 -30 Powde rcoated Aluminium Glazing Awning Windows 
+W05 11 LEVEL 05 Exterior Standard XOO - 1400 2650 1000 Powde rcoated Aluminium Glazing Awning Windows 
+W05 12 LEVEL 05 Exterior Standard XOOO - 2540 5316 -30 Powde rcoated Aluminium Glazing Awning Windows 
+W05 13 LEVEL 05 Exterior Standard XOO - 2540 3650 -30 Powder coated Aluminium Glazing Sliding Door and Fixed Gla zing 
+W05 14 LEVEL 05 Exterior Standard OX - 2540 3150 -30 Powderc oated Aluminium Glazing Sliding Door 
+W05 16 LEVEL 05 Exterior Standard XXOO - 2540 5100 -30 Powde rcoated Aluminium Glazing Sliding Door and Fixed Gl azing 
+W05 17 LEVEL 05 Exterior 4mm Float OX Rw 27 2540 3150 -30 Po wdercoated Aluminium Glazing Sliding Door 
+W05 18 LEVEL 05 Exterior 4mm Float O Rw 27 2540 800 -30 Powd ercoated Aluminium Fixed Glazing 
+W05 19 LEVEL 05 Exterior 4mm Float XXOO Rw 27 2540 5065 -30 Powdercoated Aluminium Glazing Sliding Door and Fix ed Glazing 
+W05 20 LEVEL 05 Exterior 10.38 Lam X Rw 35 2540 1000 -30 Pow dercoated Aluminium Glazing Awning Windows Acoustic Seals 
+W05 21 LEVEL 05 Exterior 10.38 Lam XXX Rw 35 1510 3000 1000 Powdercoated Aluminium Glazing Awning Windows Acoust ic Seals 
+W05 22 LEVEL 05 Exterior 12.4 Vlam or 13.52 Lam or 14. 38 Lam XXXX Rw 38 2540 5089 -30 Powdercoated Aluminium Gl azing Awning Windows Acoustic Seals 
+W05 23 LEVEL 05 Exterior 12.4 Vlam or 13.52 Lam or 14. 38 Lam OX Rw 38 2550 2216 -30 Powdercoated Aluminium Glaz ing Sliding Door Acoustic Seals 
+W05 24 LEVEL 05 Exterior 12.4 Vlam or 13.52 Lam or 14. 38 Lam OX Rw 38 2540 2260 -30 Powdercoated Aluminium Glaz ing Sliding Door Acoustic Seals 
+W05 25 LEVEL 05 Exterior 12.4 Vlam or 13.52 Lam or 14. 38 Lam OXX Rw 38 2550 3531 -30 Powdercoated Aluminium Gla zing Sliding Door Acoustic Seals 
+W05 26 LEVEL 05 Exterior 12.4 Vlam or 13.52 Lam or 14. 38 Lam XO Rw 38 2540 2554 -30 Powdercoated Aluminium Glaz ing Sliding Door Acoustic Seals 
+W05 27 LEVEL 05 Exterior 12.4 Vlam or 13.52 Lam or 14. 38 Lam OX Rw 38 710 2825 1800 Powdercoated Aluminium Glaz ing Sliding Door Acoustic Seals 
+W05 28 LEVEL 05 Exterior Standard OX - 710 1404 1800 Powderc oated Aluminium Glazing Sliding Window 
+LEVEL 06 W06 01 LEVEL 06 Exterior 4mm Float OX Rw 27 600 2250 1800 Po wdercoated Aluminium Glazing Sliding Window Acoustic  Seals 
+W06 02 LEVEL 06 Exterior Standard XO - 600 2250 1800 Powderc oated Aluminium Glazing Sliding Window 
+W06 03 LEVEL 06 Exterior Standard XO - 600 2500 1800 Powderc oated Aluminium Glazing Sliding Window 
+W06 04 LEVEL 06 Exterior Standard X - 600 1525 1800 Powderco ated Aluminium Glazing Awning Windows 
+W06 05 LEVEL 06 Exterior Standard X - 600 900 1800 Powdercoa ted Aluminium Glazing Awning Windows 
+W06 06 LEVEL 06 Exterior Standard XO - 710 2455 1800 Powderc oated Aluminium Glazing Awning Windows 
+W06 07 LEVEL 06 Exterior Standard OX - 2540 2000 -30 Powderc oated Aluminium Glazing Sliding Door 
+W06 08 LEVEL 06 Exterior Standard OX - 2540 2606 -30 Powderc oated Aluminium Glazing Sliding Door 
+W06 09 LEVEL 06 Exterior Standard XO - 2540 2081 -30 Powderc oated Aluminium Glazing Sliding Door 
+W06 10 LEVEL 06 Exterior Standard OOOX - 2540 3940 -30 Powde rcoated Aluminium Glazing Awning Windows 
+W06 11 LEVEL 06 Exterior Standard XOO - 1400 2650 1000 Powde rcoated Aluminium Glazing Awning Windows 
+W06 12 LEVEL 06 Exterior Standard XOOO - 2540 5316 -30 Powde rcoated Aluminium Glazing Awning Windows 
+W06 13 LEVEL 06 Exterior Standard XOO - 2540 3650 -30 Powder coated Aluminium Glazing Sliding Door and Fixed Gla zing 
+W06 14 LEVEL 06 Exterior Standard OX - 2540 3150 -30 Powderc oated Aluminium Glazing Sliding Door 
+W06 16 LEVEL 06 Exterior Standard XXOO - 2540 5100 -30 Powde rcoated Aluminium Glazing Sliding Door and Fixed Gl azing 
+W06 17 LEVEL 06 Exterior 4mm Float OX Rw 27 2540 3150 -30 Po wdercoated Aluminium Glazing Sliding Door 
+W06 18 LEVEL 06 Exterior 4mm Float O Rw 27 2540 800 -30 Powd ercoated Aluminium Fixed Glazing 
+W06 19 LEVEL 06 Exterior 4mm Float XXOO Rw 27 2540 5065 -30 Powdercoated Aluminium Glazing Sliding Door and Fix ed Glazing 
+W06 20 LEVEL 06 Exterior 10.38 Lam X Rw 35 2540 1000 -30 Pow dercoated Aluminium Glazing Awning Windows Acoustic Seals 
+W06 21 LEVEL 06 Exterior 10.38 Lam XXX Rw 35 1510 3000 1000 Powdercoated Aluminium Glazing Awning Windows Acoust ic Seals 
+W06 22 LEVEL 06 Exterior 12.4 Vlam or 13.52 Lam or 14. 38 Lam XXXX Rw 38 2540 5089 -30 Powdercoated Aluminium Gl azing Awning Windows Acoustic Seals 
+W06 23 LEVEL 06 Exterior 12.4 Vlam or 13.52 Lam or 14. 38 Lam OX Rw 38 2550 2216 -30 Powdercoated Aluminium Glaz ing Sliding Door Acoustic Seals 
+W06 24 LEVEL 06 Exterior 12.4 Vlam or 13.52 Lam or 14. 38 Lam OX Rw 38 2540 2260 -30 Powdercoated Aluminium Glaz ing Sliding Door Acoustic Seals 
+W06 25 LEVEL 06 Exterior 12.4 Vlam or 13.52 Lam or 14. 38 Lam OXX Rw 38 2550 3531 -30 Powdercoated Aluminium Gla zing Sliding Door Acoustic Seals 
+W06 26 LEVEL 06 Exterior 12.4 Vlam or 13.52 Lam or 14. 38 Lam XO Rw 38 2540 2554 -30 Powdercoated Aluminium Glaz ing Sliding Door Acoustic Seals 
+W06 27 LEVEL 06 Exterior 12.4 Vlam or 13.52 Lam or 14. 38 Lam OX Rw 38 710 2825 1800 Powdercoated Aluminium Glaz ing Sliding Door Acoustic Seals 
+W06 28 LEVEL 06 Exterior Standard OX - 710 1404 1800 Powderc oated Aluminium Glazing Sliding Window 
+LEVEL 07 W07 01 LEVEL 07 Exterior Standard OX - 600 1200 1800 Powderc oated Aluminium Glazing Sliding Window 
+W07 02 LEVEL 07 Exterior 4mm Float OX Rw 27 600 3158 1800 Po wdercoated Aluminium Glazing Sliding Window Acoustic  Seals 
+W07 03 LEVEL 07 Exterior Standard XO - 600 2905 1800 Powderc oated Aluminium Glazing Sliding Window 
+W07 04 LEVEL 07 Exterior Standard XO - 600 1200 1800 Powderc oated Aluminium Glazing Sliding Window 
+W07 05 LEVEL 07 Exterior Standard OX - 600 1200 1800 Powderc oated Aluminium Glazing Sliding Window 
+W07 06 LEVEL 07 Exterior Standard XO - 600 3000 1800 Powderc oated Aluminium Glazing Sliding Window 1. REFER TO FLOOR PLAN & ELEVATIONS FOR 
+WINDOW ORIENTATIONS AND LOCATIONS. 
+2. DIMENSIONS GIVEN ARE FOR OVERALL 
+FRAME SIZE UNLESS OTHERWISE STATED. 
+3. TO BE READ IN CONJUNCTION WITH THE 
+HARDWARE SCHEDULE AND SPECIFICATIONS. 
+4. REFER INTERIOR/EXTERIOR FINISHES 
+SCHEDULES FOR COLOURS AND FINISHES. 
+5. INTERNAL GLAZING IS TO BE CLEAR UNLESS 
+NOTED OTHERWISE.  
+6. ALL GLASS TO COMPLY WITH NZS 4223, 
+AS/NZS 4666:2012, AS1288 AND SECTION J 
+REPORT. 
+7. ALL DIMENSIONS GIVEN MUST BE CHECKED 
+ON SITE PRIOR TO FABRICATION. 
+8. TO BE READ IN CONJUNCTION WITH FIRE 
+REPORT. 
+9. MANIFESTATIONS TO BE SURFACE APPLIED 
+OPAQUE FILM. 
+10. EXTERNAL GLAZING TO HAVE FACTORY-
+PUNCHED DRAINED SILLS. 
+11. ALL OPERABLE SASHES ARE TO HAVE 
+SUPPLIED AND INSTALLED KEY OPERATED LOCKS (KEYED ALIKE), UNLESS NOTED OTHERWISE. 
+12. ALLOW FOR ALL WINDOWS TO HAVE SQUARE 
+SET PLASTERBOARD REVEALS, UNLESS NOTED OTHERWISE. 
+13. SURFACE FINISHING TO ALUMINIUM 
+WINDOWS TO COMPLY WITH AS1231 (ANODIZING) AND AS3715 (POWDERCOATING). 
+14. ALL EXTERNAL WINDOWS ARE TO HAVE A 
+FOLDED COLORBOND WINDOW HEAD FLASHING INSTALLED (UNLESS NOTED OTHERWISE) IN A SELECTED COLOUR. 
+15. WINDOW CONTRACTOR IS TO ALLOW FOR 
+WINDOW LEVELLING. 
+16. CONTRACTOR IS TO ALLOW FOR ALL 
+STATUTORY SIGNAGE.  INCLUSIVE OF FIRE SIGNAGE UNDER AS1319, AMENITIES SIGNAGE UNDER AS1428, AND ANY OTHER SIGNAGE REQUIRED BY LAW. WINDOW NOTES 
+• X DENOTES OPERABLE, O DENOTES FIXED. CONFIGURATIO N OF WINDOWS IS TO BE 
+VIEWED FROM OUTSIDE OF BUILDING FROM LEFT TO RIGHT.  WHERE UNCLEAR, 
+REFER TO FLOOR PLANS AND ELEVATIONS. 
+• ALL WALLS, WINDOWS TO COMPLY WITH FIRE ENGINEERIN G AND ACOUSTIC REPORT. 
+• REFER TO ACOUSTIC REPORT FOR ACOUSTIC REQUIREMENT S. REQUIREMENTS ON 
+ACOUSTIC REPORT TAKES PRECEDENT OVER WINDOW SCHEDUL E OVER THERE ARE 
+DISCREPANCIES. A COODRINATION ISSUE 23.02.23 B ISSUE FOR DOOR HARDWARE 
+SCHEDULE 07.03.23 
+C 70% ECI TENDER ISSUE 09.03.23 

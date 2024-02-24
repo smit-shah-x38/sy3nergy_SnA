@@ -3,13 +3,13 @@ import PyPDF2
 import os
 
 # Get the directory path
-dir_path = r"E:\neov_ide\synergy\sy3nergy_SnA\sample_pdf"
+dir_path = r"E:\Work\workbackups\localdata\PDFs"
 
 # Get list of files
 files = os.listdir(dir_path)
 # Open the pdf file
 for filepath in files:
-  pdf_file = open(r"{}".format(filepath), "rb")
+  pdf_file = open(r"{}\\".format(dir_path) + r"{}".format(filepath), "rb")
 
   # Create a pdf reader object
   pdf_reader = PyPDF2.PdfReader(pdf_file)
@@ -21,8 +21,11 @@ for filepath in files:
     # Extract the text
     page_text = pdf_page.extract_text()
     # Print the text
-    print(str(page_text)[0:10])
-    print("-----------")
+    # print(str(page_text)[0:10])
+    # print("-----------")
+    
+    with open(r"sample_outs\{}.txt".format(filepath), "w") as file_txt:
+      file_txt.write(page_text)
 
   # Close the file
   pdf_file.close()
