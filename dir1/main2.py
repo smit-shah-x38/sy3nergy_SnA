@@ -3,7 +3,7 @@ import os
 import google.generativeai as genai
 import PyPDF2
 import json
-
+import zipfile
 
 text_file = r"E:\Work\workbackups\localdata\googleapi.txt"
 
@@ -135,17 +135,42 @@ def page_file_uploader():
     if jsonobj:
         if jsonobj["filetype"]:
             save_files(uploaded_files=uploaded_files, save_directory=jsonobj["filetype"])
-     
+
+def zipdir(path, ziph):
+    # ziph is the zipfile handle
+    for root, dirs, files in os.walk(path):
+        for file in files:
+            file_path = os.path.join(root, file)
+            # Add each file to the ZIP archive
+            ziph.write(file_path, os.path.relpath(file_path, path))
+
+def zipper():
+    st.subheader("Zip Downloader")
+    # Specify the directory you want to zip
+    directory_to_zip = r"E:\neov_ide\synergy\sy3nergy_SnA\dir1"
+
+    # Name for the output ZIP file
+    output_zip_filename = r'my_directory.zip'
+
+    # Create a new ZIP file
+    with zipfile.ZipFile(output_zip_filename, 'w', zipfile.ZIP_DEFLATED) as zip_file:
+        zipdir(directory_to_zip, zip_file)
+        
+    with open("my_directory.zip", "rb") as fp:
+        st.download_button(label="Download ZIP", data=fp, file_name="my_directory.zip", mime="application/zip")
+    
 def main():
     st.title("Directory Manager & File Uploader")
 
-    page_names = ["Directory Manager", "Manual Uploader", "Analyser"]
+    page_names = ["Directory Manager", "Uploader", "Zipper"]
     page = st.sidebar.selectbox("Select Page", page_names)
 
     if page == "Directory Manager":
         page_directory_manager()
-    elif page == "Manual Uploader":
+    elif page == "Uploader":
         page_file_uploader()
+    elif page == "Zipper":
+        zipper()
                 
 if __name__ == "__main__":
     main() 
