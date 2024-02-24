@@ -48,8 +48,22 @@ def page_file_uploader():
     """Allows uploading files and specifying a save directory."""
     st.subheader("File Uploader")
 
-    uploaded_files = st.file_uploader("Upload Files", type=["*"], accept_multiple_files=True)
-    save_directory = st.text_input("Save Directory", value=os.getcwd())
+    uploaded_files = st.file_uploader("Upload Files", type=["pdf", "jpg", "txt"], accept_multiple_files=True)
+    
+    current_directory = os.getcwd()
+    folders = [d for d in os.listdir(current_directory) if os.path.isdir(os.path.join(current_directory, d))]
+    selected_directory_level1 = st.selectbox("Root Directory", folders)
+
+    # Simulate subdirectories within the chosen root directory
+    if selected_directory_level1:
+        subdirectories = os.listdir(os.path.join(os.getcwd(), selected_directory_level1))
+        selected_directory_level2 = st.selectbox("Subdirectory", ["None"] + subdirectories)
+        if selected_directory_level2 != "None":
+            save_directory = os.path.join(os.getcwd(), selected_directory_level1, selected_directory_level2)
+        else:
+            save_directory = os.path.join(os.getcwd(), selected_directory_level1)
+    else:
+        save_directory = None
 
     if uploaded_files and save_directory:
         save_files(uploaded_files, save_directory)
@@ -72,12 +86,12 @@ def main():
 
     st.title("Directory Manager & File Uploader")
 
-    page_names = ["Directory Manager", "File Uploader"]
+    page_names = ["Directory Manager", "Manual Uploader"]
     page = st.sidebar.selectbox("Select Page", page_names)
 
     if page == "Directory Manager":
         page_directory_manager()
-    elif page == "File Uploader":
+    elif page == "Manual Uploader":
         page_file_uploader()
 
     
