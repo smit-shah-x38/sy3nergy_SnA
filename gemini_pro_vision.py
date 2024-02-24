@@ -1,14 +1,14 @@
 import PIL.Image
 import google.generativeai as genai
 
-text_file = r"E:\Work\sem5backups\localdata\google_apikey.txt"
+text_file = r"C:\Users\Atharva\OneDrive\Desktop\Atharva Rajmane\3rd Year\google_apikey.txt"
 
 with open(text_file, "r") as f:
     api_key = f.read().strip()
     
 genai.configure(api_key=api_key)
 
-img = PIL.Image.open(r"C:\Users\Smit\Downloads\imageofdeath.jpg")
+img = PIL.Image.open(r"C:\Users\Atharva\Downloads\Img3.png")
 model = genai.GenerativeModel('gemini-pro-vision')
 response = model.generate_content(img)
 print(response.text)
