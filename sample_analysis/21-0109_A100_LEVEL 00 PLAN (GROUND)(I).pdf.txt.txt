@@ -1,0 +1,9 @@
+
+{
+ "filetype": "Architectural drawing",
+ "hierarchy": [
+  "Project",
+  "21-0109 12 Aerodrome R oad Maroochydore (2022)_henri.chau.rvt",
+  "LEVEL 00 PLAN (GROUND)"
+ ]
+}

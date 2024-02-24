@@ -1,0 +1,9 @@
+
+{
+  "filetype": "framing plan",
+  "hierarchy": {
+    "project": "21-0109 12 Aerodrome R oad Maroochydore",
+    "level": "02",
+    "type": "framing plan"
+  }
+}

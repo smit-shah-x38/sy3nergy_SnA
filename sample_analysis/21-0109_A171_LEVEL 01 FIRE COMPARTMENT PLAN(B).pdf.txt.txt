@@ -1,0 +1,5 @@
+
+{
+  "filetype": "fire compartment plan",
+  "hierarchy": "project > building > level > fire compartment plan"
+}

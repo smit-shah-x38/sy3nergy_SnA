@@ -1,0 +1,10 @@
+
+{
+"filetype": "Architectural Drawing",
+"heirarchy": {
+"Project": "21-0109 12 Aerodrome Road Maroochydore",
+"Revision": "A200",
+"Sheet Name": "EXTERNAL ELEVATION -SHEET 01 (NORTH)",
+"Scale": "1:100"
+ }
+}

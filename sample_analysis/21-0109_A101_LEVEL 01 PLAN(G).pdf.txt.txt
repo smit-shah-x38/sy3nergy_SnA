@@ -1,0 +1,8 @@
+{
+"filetype": "floor plan",
+"hierarchy": {
+    "Design Drawings": "Architectural Drawings",
+    "Architectural Drawings": "Floor Plans",
+    "Floor Plans": "Level 01 Floor Plan"
+    }
+}

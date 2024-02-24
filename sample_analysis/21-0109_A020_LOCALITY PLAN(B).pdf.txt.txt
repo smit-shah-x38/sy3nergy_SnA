@@ -1,0 +1,9 @@
+
+{
+  "filetype": "Architectural plan",
+  "hierarchy": {
+    "project": "21-0109 12 Aerodrome R oad Maroochydore",
+    "sheet": "A020 LOCALITY PLAN",
+    "revision": "B"
+  }
+}
