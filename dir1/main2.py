@@ -184,7 +184,7 @@ def img_extract(dir_path,filename):
     with open(output_file, "w") as outfile:
         for filename in os.listdir(outpath):
             if filename.endswith(".txt"):
-                with open(os.path.join(outpath, filename), "r+") as infile:
+                with open(os.path.join(outpath, filename), "r+", encoding='utf-8') as infile:
                     outfile.write(infile.read())
 
     with open(output_file, "r") as f:
@@ -364,6 +364,65 @@ def zipdir(path, ziph):
             # Add each file to the ZIP archive
             ziph.write(file_path, os.path.relpath(file_path, path))
 
+def page_file_uploader_2():
+    """Allows uploading files and specifying a save directory."""
+    st.subheader("File Uploader")
+
+    uploaded_files = st.file_uploader("Upload Files", type=["pdf", "jpg", "txt"], accept_multiple_files=True)
+    
+    current_directory = os.getcwd()
+    
+    folders = [d for d in os.listdir(current_directory) if os.path.isdir(os.path.join(current_directory, d))]
+    selected_directory_level1 = st.selectbox("Root Directory", folders)
+
+    # Simulate subdirectories within the chosen root directory
+    if selected_directory_level1:
+        subdirectories = os.listdir(os.path.join(os.getcwd(), selected_directory_level1))
+        selected_directory_level2 = st.selectbox("Subdirectory", ["None"] + subdirectories)
+        if selected_directory_level2 != "None":
+            save_directory = os.path.join(os.getcwd(), selected_directory_level1, selected_directory_level2)
+        else:
+            save_directory = os.path.join(os.getcwd(), selected_directory_level1)
+    else:
+        save_directory = None
+    
+    save_directory = current_directory + "\\temp"
+
+    if uploaded_files and save_directory:
+        save_files(uploaded_files, save_directory)
+
+# Function to get list of files in a directory
+def list_files(directory):
+    file_list = []
+    for root, dirs, files in os.walk(directory):
+        for file in files:
+            file_list.append(os.path.relpath(os.path.join(root, file), directory))
+    return file_list
+
+# Function to delete a file
+def delete_file(directory, filename):
+    file_path = os.path.join(directory, filename)
+    if os.path.exists(file_path):
+        os.remove(file_path)
+        st.success(f"File '{filename}' deleted successfully.")
+    else:
+        st.error(f"File '{filename}' does not exist.")
+
+def file_deleter():
+    directory = os.getcwd()
+    st.header("List of Files")
+    files = list_files(directory)
+    selected_file = st.selectbox("Select a file to delete:", files)
+
+    # Delete selected file
+    if st.button("Delete File"):
+        delete_file(directory, selected_file)
+    
+    # Display the list of files
+    st.write("Files in directory:", files)
+
+
+
 def zipper():
     st.subheader("Zip Downloader")
     # Specify the directory you want to zip
@@ -382,7 +441,7 @@ def zipper():
 def main():
     st.title("Directory Manager & File Sorter")
 
-    page_names = ["Directory Manager", "Uploader", "Zipper"]
+    page_names = ["Directory Manager", "Uploader", "Zipper", "Manual Delete", "Manual Upload"]
     page = st.sidebar.selectbox("Select Page", page_names)
 
     if page == "Directory Manager":
@@ -391,6 +450,10 @@ def main():
         page_file_uploader()
     elif page == "Zipper":
         zipper()
+    elif page == "Manual Delete":
+        file_deleter()
+    elif page == "Manual Upload":
+        page_file_uploader_2()
                 
 if __name__ == "__main__":
     main() 
